@@ -1,6 +1,9 @@
 # love2d-ollama
 
 A pure Lua Ollama client for Love2D with asynchronous HTTP support and no external dependencies.
+## Demo
+
+https://github.com/user-attachments/assets/8af9d488-3f20-4823-9837-423ce5d5f249
 
 ## Features
 
